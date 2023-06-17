@@ -1,1 +1,1 @@
-"# React-ReUser" 
+ReUser серверная чать на Spring, остальное веб-приложение на React
